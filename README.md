@@ -2,6 +2,10 @@
 
 A collection of rough user interface elements for Sketch (http://sketchapp.com).
 
+## Getting Started
+
+1. Install “Balsamiq Sans” from the included `fonts` directory.
+
 ## Credits
 
 - BalsamiqSansBold.ttf: Copyright (c) 2012 Michael Angeles for Balsamiq, SRL (support@balsamiq.com), with Reserved Font Name “Balsamiq”
